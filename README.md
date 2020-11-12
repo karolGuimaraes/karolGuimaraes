@@ -75,8 +75,8 @@
     />
   </a>
   
-  ### 
-  
+  ### Studying
+  <br/>
   <a
     href="https://nodejs.org/en/"
     target="_blank"
