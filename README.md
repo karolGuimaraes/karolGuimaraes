@@ -74,3 +74,19 @@
       height="40"
     />
   </a>
+  
+  ### 
+  
+  <a
+    href="https://nodejs.org/en/"
+    target="_blank"
+  >
+    <img
+      src="https://devicon.dev/devicon.git/icons/nodejs/nodejs-original.svg"
+      alt="nodejs"
+      width="40"
+      height="40"
+    />
+  </a>
+  
+  
