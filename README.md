@@ -82,7 +82,7 @@
     target="_blank"
   >
     <img
-      src="https://devicon.dev/devicon.git/icons/nodejs/nodejs-original.svg"
+      src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg"
       alt="nodejs"
       width="40"
       height="40"
