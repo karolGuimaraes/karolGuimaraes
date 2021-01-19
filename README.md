@@ -84,8 +84,8 @@
     <img
       src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg"
       alt="nodejs"
-      width="40"
-      height="40"
+      width="55"
+      height="55"
     />
   </a>
   
