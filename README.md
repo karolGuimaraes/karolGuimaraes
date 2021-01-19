@@ -24,10 +24,10 @@
     target="_blank"
   >
     <img
-      src="https://devicon.dev/devicon.git/icons/python/python-original.svg"
+      src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"
       alt="python"
-      width="40"
-      height="40"
+      width="55"
+      height="55"
     />
 </a>
 <a
@@ -35,10 +35,10 @@
     target="_blank"
   >
     <img
-      src="https://devicon.dev/devicon.git/icons/django/django-original.svg"
+      src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg"
       alt="django"
-      width="40"
-      height="40"
+      width="55"
+      height="55"
     />
   </a>
 <a
@@ -46,10 +46,10 @@
     target="_blank"
   >
     <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg"
+      src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"
       alt="javascript"
-      width="40"
-      height="40"
+      width="55"
+      height="55"
     />
   </a>
  <a
@@ -57,10 +57,25 @@
     target="_blank"
   >
     <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original.svg"
+      src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg"
       alt="docker"
-      width="40"
-      height="40"
+      width="55"
+      height="55"
+    />
+  </a>
+  
+  
+  ### Studying
+  <br/>
+  <a
+    href="https://angular.io/"
+    target="_blank"
+  >
+    <img
+      src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg"
+      alt="angular"
+      width="55"
+      height="55"
     />
   </a>
    <a
@@ -68,15 +83,12 @@
     target="_blank"
   >
     <img
-      src="https://devicon.dev/devicon.git/icons/react/react-original.svg"
+      src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"
       alt="react"
-      width="40"
-      height="40"
+      width="55"
+      height="55"
     />
   </a>
-  
-  ### Studying
-  <br/>
   <a
     href="https://nodejs.org/en/"
     target="_blank"
