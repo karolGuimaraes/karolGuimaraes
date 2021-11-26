@@ -78,17 +78,6 @@
       height="55"
     />
   </a>
-   <a
-    href="https://pt-br.reactjs.org/"
-    target="_blank"
-  >
-    <img
-      src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"
-      alt="react"
-      width="55"
-      height="55"
-    />
-  </a>
   <a
     href="https://nodejs.org/en/"
     target="_blank"
