@@ -16,7 +16,7 @@
   </a>
 </p>
 
-### Languages and Tools
+### Skills
 
 <br/>
 <a
@@ -35,7 +35,7 @@
     target="_blank"
   >
     <img
-      src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg"
+      src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg"
       alt="django"
       width="55"
       height="55"
@@ -48,6 +48,17 @@
     <img
       src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"
       alt="javascript"
+      width="55"
+      height="55"
+    />
+  </a>
+  <a
+    href="https://aws.amazon.com/"
+    target="_blank"
+  >
+    <img
+      src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
+      alt="amazon"
       width="55"
       height="55"
     />
