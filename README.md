@@ -36,6 +36,9 @@
     </a> 
     <a href="https://www.docker.com/" target="_blank">
         <img src="https://img.shields.io/badge/docker%20-%230073EC.svg?&style=for-the-badge&logo=docker&logoColor=white" height="25"/>
+    </a>
+    <a href="https://flask.palletsprojects.com/en/2.2.x/" target="_blank">
+        <img src="https://img.shields.io/badge/flask%20-%23000000.svg?&style=for-the-badge&logo=flask&logoColor=white" height="25"/>
     </a> 
 </p>
 
@@ -50,7 +53,7 @@
         <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" height="25"/>
     </a>
     <a href="https://expressjs.com/pt-br/" target="_blank">
-        <img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge" height="25"/>
+        <img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge&logo=express&logoColor=white" height="25"/>
     </a>
     <a href="https://www.mongodb.com/pt-br" target="_blank">
         <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white" height="25"/>
